@@ -8,10 +8,6 @@
   z-index: -1;
 }
 
-#audio-background-music {
-  display : none;
-}
-
 .container {
 font-weight: bold;
 width: 400px;
